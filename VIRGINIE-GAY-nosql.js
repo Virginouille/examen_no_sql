@@ -16,7 +16,7 @@ db.lego.insertMany([
         'prix': 89.99,
         'theme': "Star Wars",
         'evaluations': [
-            { 'utilisateur': 'David', 'note': 4 }
+            { 'utilisateur': 'David', 'note': 4 },
             { 'utilisateur': 'Eve', 'note': 3 }
         ]
     }
